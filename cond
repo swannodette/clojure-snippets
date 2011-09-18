@@ -2,4 +2,4 @@
 # --
 (cond
   $0
-  ${1:else $2:{else-clause})
+  ${1:else} ${2:else-clause})
