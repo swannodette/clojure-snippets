@@ -1,4 +1,4 @@
 #name: ns
 # --
-(ns ${1:name}
+(ns `(clojure-expected-ns)`
   $0)
