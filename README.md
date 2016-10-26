@@ -1,3 +1,17 @@
+# Warning
+
+**************************************************************************
+
+**NOTE:** these snippets are **no longer** actively maintained. For
+the latest actively maintained snippets, organised into a package
+see [https://github.com/mpenet/clojure-snippets](https://github.com/mpenet/clojure-snippets)
+
+This repo is kept only for reference purposes
+
+**************************************************************************
+
+# Previously
+
 Install yasnippet via the Emacs package manager.
 
 Then:
